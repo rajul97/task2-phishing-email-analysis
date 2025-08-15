@@ -1,0 +1,19 @@
+From: PayPal <support@paypa1.com>
+To: user@example.com
+Subject: Urgent Action Required: Account Suspension Notice
+
+Dear Customer,
+
+We have detected unusual activity in your PayPal account.  
+For your security, your account is temporarily on suspended.
+
+To restore access, please verify your account information within 24 hours by clicking the link below:
+
+Verify Now: http://secure-paypa1.com/account-update
+
+Failure to verify your account will result in permanent suspension.
+
+Thank you for your prompt attention to this matter.
+
+Sincerely,  
+PayPal Security Team

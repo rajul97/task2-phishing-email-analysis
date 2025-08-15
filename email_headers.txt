@@ -1,0 +1,13 @@
+Return-Path: <support@paypa1.com>
+Received: from unknown (HELO mail.secure-paypa1.com) (197.210.45.123)
+    by mx.example.com with ESMTP; Thu, 14 Aug 2025 10:15:23 +0000
+Received-SPF: fail (example.com: domain of support@paypa1.com does not designate 197.210.45.123 as permitted sender)
+Authentication-Results: mx.example.com; spf=fail; dkim=fail; dmarc=fail
+From: "PayPal Security" <support@paypa1.com>
+To: user@example.com
+Subject: Urgent Action Required: Account Suspension Notice
+Date: Thu, 14 Aug 2025 10:14:55 +0000
+Message-ID: <20250814101455.ABC123@mail.secure-paypa1.com>
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
